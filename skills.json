@@ -1,35 +1,35 @@
 [
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "HTML",
+        "icon": "https://img.icons8.com/?size=48&id=20909&format=png"
     },
     {
-        "name": "Flutter",
-        "icon": "https://img.icons8.com/fluency/48/000000/flutter.png"
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=48&id=21278&format=png"
     },
     {
-        "name": "iOS",
-        "icon": "https://img.icons8.com/fluency/48/000000/mac-os.png"
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=48&id=108784&format=png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "PHP",
+        "icon": "https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=48&id=13441&format=png"
     },
     {
-        "name": "Dart",
-        "icon": "https://img.icons8.com/color/48/000000/dart.png"
+        "name": "NodeJs",
+        "icon": "https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"
     },
     {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=48&id=84710&format=png"
     },
    
     {
@@ -51,5 +51,30 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },  
+
+    {
+        "name": "Wordpress",
+        "icon": "https://img.icons8.com/?size=48&id=13664&format=png"
+    },
+
+    {
+        "name": "Unity",
+        "icon": "https://img.icons8.com/?size=48&id=VLjW6zFrsq2F&format=png"
+    },
+
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/?size=48&id=13677&format=png"
+    }, 
+
+    {
+        "name": "Edit Video",
+        "icon": "https://img.icons8.com/?size=48&id=2c0vKpIXvERQ&format=png"
+    },   
+
+    {
+        "name": "Game Dev",
+        "icon": "https://img.icons8.com/?size=48&id=rCMgUHUAhuWi&format=png"
     }    
 ]

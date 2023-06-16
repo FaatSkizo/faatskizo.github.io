@@ -404,7 +404,7 @@ header .navbar ul li a:hover {
   text-transform: none;
 }
 .about .row .content .box-container .box p span {
-  color: #011aff;
+  color: #ff01d5;
 }
 .resumebtn {
   margin-top: 6rem;
@@ -414,8 +414,8 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.3s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background: #fc00a8;
+  box-shadow: 0px 5px 10px rgba(247, 48, 204, 0.6);
   font-family: "Nunito", sans-serif;
 }
 .resumebtn .btn span {
@@ -429,7 +429,7 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .resumebtn .btn:hover {
-  background: #1a047e;
+  background: #fc7dcb;
 }
 .resumebtn .btn:hover i {
   transform: translateX(5px);
@@ -461,16 +461,16 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: linear-gradient(to bottom, #ff14ff, #ff00aa);
 }
 .skills h2 {
   color: #fff;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color: rgb(0, 0, 0);
 }
 .skills .container {
-  background: rgba(0, 0, 22, 0.4);
+  background: rgba(150, 23, 122, 0.4);
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
@@ -489,12 +489,12 @@ header .navbar ul li a:hover {
   padding: 10px;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  background: rgba(0, 0, 22, 0.9);
+  background: rgba(168, 3, 146, 0.9);
   transition: 0.2s;
 }
 .skills .container .bar:hover {
-  box-shadow: 0 8px 10px rgba(0, 2, 68, 0.8) !important;
-  background-color: rgba(0, 0, 0, 0.9) !important;
+  box-shadow: 0 8px 10px rgba(133, 0, 104, 0.8) !important;
+  background-color: rgba(211, 2, 166, 0.9) !important;
 }
 .skills .container .bar .info {
   display: flex;
